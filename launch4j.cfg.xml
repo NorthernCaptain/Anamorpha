@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\NorthernCaptain\Documents\NetBeansProjects\Anamorpha\store\Anamorpha.jar</jar>
+  <outfile>C:\Users\NorthernCaptain\Documents\NetBeansProjects\Anamorpha\dist\anamorpha.exe</outfile>
+  <errTitle>Необходимо установить Java Runtime</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/ru/download/index.jsp</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\NorthernCaptain\Documents\NetBeansProjects\Anamorpha\icon.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.6.0_20</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <maxHeapSize>1024</maxHeapSize>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.2</fileVersion>
+    <txtFileVersion>v.1.0.2</txtFileVersion>
+    <fileDescription>Anamorpha</fileDescription>
+    <copyright>Northern Captain</copyright>
+    <productVersion>1.0.0.2</productVersion>
+    <txtProductVersion>v1.0.2</txtProductVersion>
+    <productName>Anamorphic image creator</productName>
+    <companyName></companyName>
+    <internalName>Anamorpha</internalName>
+    <originalFilename>anamorpha.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
